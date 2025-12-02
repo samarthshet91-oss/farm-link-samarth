@@ -1,0 +1,8 @@
+{
+  "name": "FarmLink",
+  "description": "A comprehensive platform connecting farmers and buyers with AI-powered crop analysis, price prediction, and intelligent matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
